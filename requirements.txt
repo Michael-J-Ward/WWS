@@ -1,0 +1,12 @@
+Jinja2==2.7.3
+MarkupSafe==0.23
+argparse==1.2.1
+backports.ssl-match-hostname==3.4.0.2
+beautifulsoup4==4.3.2
+certifi==14.05.14
+ipython==2.3.1
+pyzmq==14.4.1
+requests==2.5.0
+selenium==2.44.0
+tornado==4.0.2
+wsgiref==0.1.2
